@@ -1,3 +1,3 @@
 public class toRemove {
-    //Wersja 5.0
+    //Wersja 6.0 na branchu
 }
