@@ -1,5 +1,6 @@
 public class Tools {
     public static void main(String[] args) {
-        System.out.println("Git test :)");
+        toRemove rem = new toRemove();
+        System.out.println("Git test :)" + rem.toString());
     }
 }
