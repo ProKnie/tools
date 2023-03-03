@@ -1,3 +1,3 @@
 public class toRemove {
-    //Wersja 1.0
+    //Wersja 2.0
 }
