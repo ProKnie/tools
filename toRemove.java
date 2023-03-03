@@ -1,3 +1,3 @@
 public class toRemove {
-    //Wersja 7.0 z maina
+    //Wersja 8.0 z merdża
 }
